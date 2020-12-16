@@ -1,0 +1,19 @@
+11/2018 expense now purchase 885000 
+11/2018 expense now closing 35000
+11/2018 expense monthly property_tax 1085
+11/2018 expense monthly ho_insurance 150
+11/2018 loan new uwm 865000 30 4.25% 1.05%
+11/2018 rent new unit3 1855
+11/2018 rent new unit2 2200
+12/2018 loan new dt 30000 5 12.40% 0%
+12/2018 expense now rehab 45000
+01/2019 pm new 6% 60% unit3 unit1
+02/2019 rent new unit1 3500
+07/2019 loan payoff uwm 100000
+07/2019 loan payoff dt
+07/2019 rent rm unit2
+07/2019 rent update unit3 2200
+07/2019 pm new 6% 60% unit2
+07/2019 rent new unit2 2200
+10/2019 loan payoff uwm
+10/2019 expense now sale -885000
